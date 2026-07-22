@@ -12,6 +12,7 @@ This repository contains the Python scripts and raw data for:
 
 * `scripts/` - python Analysis scripts
 * `data/`raw data files
+* `pkl/`saved analyzers 
 
 
 
@@ -29,11 +30,19 @@ The following single cell bursts of Chlorella were not processable:
 * 53
 * 54
 * 55
+
+
 The following single cell bursts of Chlamydomonas were not processable:
+
 * 32
+
+
+
 Chlorella Nr. 41 showed a measurement jump with regards to displacement and was therefore excluded.
 
 \###########################################################################################################
+
+
 
 The cell size is given in micrometers and was measured in the Videos.
 The videos are available upon request (due to their large filesize).
